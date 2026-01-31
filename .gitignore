@@ -1,0 +1,16 @@
+# virtual environments
+.venv/
+.venv_wsl/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# secrets
+.env
+
+# OS
+.DS_Store
